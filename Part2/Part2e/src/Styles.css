@@ -1,0 +1,33 @@
+.error {
+  height: 30px;
+  width: 90%;
+  padding: 5px;
+  font-size: 18px;
+  margin-left: 5px;
+  margin-right: 5px;
+  margin-top: 20px;
+  border-radius: 5px;
+  border: 3px solid red;
+  color: red;
+  background: grey;
+}
+
+.success {
+  height: 30px;
+  width: 90%;
+  padding: 5px;
+  font-size: 18px;
+  margin-left: 5px;
+  margin-right: 5px;
+  margin-top: 20px;
+  border-radius: 5px;
+  border: 3px solid green;
+  color: green;
+  background: grey;
+}
+.message {
+  text-align: center;
+}
+body{
+  margin-left: 5px;
+}
