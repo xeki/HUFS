@@ -1,0 +1,14 @@
+.row-block{
+  display: flex;
+}
+.content {
+  flex: 5;
+  text-justify: distribute;
+}
+.vote-count {
+  flex: 1;
+  margin-left: 5px;
+}
+.vote-button {
+  flex: 1;
+}
