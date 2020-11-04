@@ -1,0 +1,10 @@
+credential.txt
+/**/node_modules/
+**/.eslintrc.js
+**/yarn-error.log
+**/.env
+**/debug.log
+**/coverage/
+**/package-lock.json
+**/.ipynb_checkpoints
+**/*.ipynb

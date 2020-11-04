@@ -1,0 +1,23 @@
+.user-stat-container {
+  width: 400px;
+}
+
+.user-stat-row {
+  display: flex;
+  flex: 1;
+  padding: 0;
+  margin: 0;
+}
+
+.user-stat-name {
+  flex: 2;
+  display: flex;
+}
+
+.user-stat-blogs {
+  flex: 1;
+  display: flex;
+}
+.user-stat-row p {
+  margin: 2px;
+}

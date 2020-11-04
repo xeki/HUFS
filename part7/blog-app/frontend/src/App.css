@@ -1,0 +1,129 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.blogs {
+  margin-top: 10px;
+  margin-left: 10px;
+}
+
+.blog {
+  font-size: 16px;
+  word-spacing: 1.5px;
+}
+.blog:hover {
+  background-color: lightgray ;
+}
+
+button {
+  margin-top: 3px;
+  margin-left: 5px;
+  height: 24px;
+}
+
+input {
+  margin-bottom: 2px;
+}
+
+.message {
+  height: 40px;
+  color: black;
+  font-weight: bolder;
+  font-size: 21px;
+  background-color: lightgray;
+  line-height: 40px;
+  vertical-align: middle;
+  text-align: center;
+}
+
+.success {
+  color: green;
+  border: solid green 2px;
+  display: block;
+}
+
+.error {
+  color: red;
+  display: block;
+  text-align: center;
+}
+
+.hide {
+  display: none;
+}
+
+.blog-details-container {
+  margin-left: 7px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  width: 600px;
+  display: flex;
+}
+.left-blog-details {
+  flex: 2;
+}
+
+.right-blog-details {
+  flex: 1;
+}
+
+.padded-div {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.app-container {
+  width: 600px;
+  min-height: 400px;
+  margin: auto;
+}
+
+.logout-container {
+  width: inherit;
+  display: flex;
+}
+
+.logout-left {
+  justify-content: left;
+  flex: 2;
+}
+
+.logout-right {
+  justify-content: right;
+  flex: 1;
+}

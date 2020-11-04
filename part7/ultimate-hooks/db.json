@@ -1,0 +1,55 @@
+{
+  "notes": [
+    {
+      "content": "custom-hookit aivan mahtavia",
+      "id": 1,
+      "likes": 2,
+      "authorId": 0
+    },
+    {
+      "content": "paras feature ikinä <3",
+      "id": 2,
+      "likes": 1,
+      "authorId": 0
+    },
+    {
+      "content": "My note",
+      "id": 3,
+      "likes": 0,
+      "authorId": 0
+    },
+    {
+      "content": "Where is my \"I have a new Note\"?",
+      "likes": 3,
+      "id": 4,
+      "authorId": 0
+    }
+  ],
+  "persons": [
+    {
+      "name": "mluukkai",
+      "number": "040-5483923",
+      "id": 1
+    },
+    {
+      "name": "Abe",
+      "number": "100-200",
+      "id": 2
+    },
+    {
+      "name": "Ande",
+      "number": "110",
+      "id": 3
+    },
+    {
+      "name": "Hulete",
+      "number": "500-700",
+      "id": 4
+    },
+    {
+      "name": "Kemal ",
+      "number": "100-200-555",
+      "id": 5
+    }
+  ]
+}
